@@ -1,3 +1,11 @@
+
+
+### Greetings, I'm Jak  
+<div align="center">
+<img src="http://www.gravatar.com/avatar/4f1b5cf7e78ed3ca43372d659fd9d17d?s=200" align="center" height="" width="" />
+</div>  
+  
+
 # <div align="center">I'm a back-end developer who lives in Thailand</div>  
   
 
